@@ -1,0 +1,45 @@
+Key Features
+track_name: Name of the song
+artist(s)_name: Name of the artist(s) of the song
+artist_count: Number of artists contributing to the song
+released_year: Year when the song was released
+released_month: Month when the song was released
+released_day: Day of the month when the song was released
+in_spotify_playlists: Number of Spotify playlists the song is included in
+in_spotify_charts: Presence and rank of the song on Spotify charts
+streams: Total number of streams on Spotify
+in_apple_playlists: Number of Apple Music playlists the song is included in
+in_apple_charts: Presence and rank of the song on Apple Music charts
+in_deezer_playlists: Number of Deezer playlists the song is included in
+in_deezer_charts: Presence and rank of the song on Deezer charts
+in_shazam_charts: Presence and rank of the song on Shazam charts
+bpm: Beats per minute, a measure of song tempo
+key: Key of the song
+mode: Mode of the song (major or minor)
+danceability_%: Percentage indicating how suitable the song is for dancing
+valence_%: Positivity of the song's musical content
+energy_%: Perceived energy level of the song
+acousticness_%: Amount of acoustic sound in the song
+instrumentalness_%: Amount of instrumental content in the song
+liveness_%: Presence of live performance elements
+speechiness_%: Amount of spoken words in the song
+Data Source: Kaggle.com
+
+Tool Used: Powerbi
+
+Key Insights:
+Sum of Energy by Artist name: Taylor Swift music has highest sum of energy with 1.9k, The Weekend with 1.4k energy, Bad Bunny with 1.3k energy, Harry Styles and SZA with 1.0k each, while Feid has the lowest energy with 0.5k
+
+Artist Count by Artists name: The analysis shows that number of artists who contributed to Taylor Swift music were higher with sum of 34, The Weekend with 22, Bad Bunny and SZA have same number of contributors with 19 while Harry Styles has lowest number of contributors with 17.
+
+Instrumentaness by Artist name: This analysis reveal that Labrinth music has highest amount of instrumental content in his song with sum of 113 followed by Vundabar with 91 , INTERWORLD with 90 while Lil Yatchy has lowest amount of instrumental content in his song with 83.
+
+Danceability by Artist name: The analysis shows that Taylor Swift music has highest Percentage  of danceability with 38.85% which indicate how suitable the song is for dancing, Bad Bunny 24.49% danceability, The Weekend with 21.77% danceability and SZA with 18.89% danceability in their songs.
+
+Top Streamed by Track name: This analysis shows that Blinding Lights was the most streamed song on spotify with 3.7bn, Shape of you with 3.6bn streamed on spotify while Someone You Love and Dance Monkey have the same number of streamed on spotify with2.9bn each.
+
+Apple Playlists by Artist name: The analysis reveal that Taylor Swift songs has highest number of Apple Music playlists in his song with 1.8k, Harry Styles and The Weekend have the same number of Apple music playlist in their songs with 1.7k followed by Ed Shareen with 1.4k, Dua Lipa with 0.8k while Lewis Capldi and Olivia Rodrigo hve lowest number of Apple Music playlistd in their songs with 0.7k respectively.
+
+Recommendations:
+Other artist should make their songs to be energetic, danceable and more instrumental like Taylor Swift music so that people can derive pleasure in their music.
+Taylor Swift should continue to make her song mirror people life experience, making them feel understood and validated.
